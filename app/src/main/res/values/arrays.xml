@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "user_identify">
+        <item>메인 사용자</item>
+        <item>서브 사용자</item>
+        <item>메인/서브 사용자</item>
+    </string-array>
+</resources>
